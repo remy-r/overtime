@@ -8,6 +8,7 @@ The script heure_sup.py in command line 'programme/heure_sup.py --semaine 47' re
 0 - INSTALL
 
 sudo pip install reportlab
+
 sudo pip install PyPDF2
 
 1 - CONFIG

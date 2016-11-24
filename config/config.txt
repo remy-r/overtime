@@ -1,0 +1,4 @@
+NOM_ORGANISME---Societe
+IDENTIFICATION---John Smith
+EMPLOI---Nom du poste
+NOM_FICHIER---form.pdf

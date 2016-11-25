@@ -1,4 +1,5 @@
-# heures_sup
+# overtime
+
 Python script to fill out an hour extra form in PDF
 
 This program works with a CRON file 'programme/makeLog.py' which write in a directory 'fichiers' your logs hours of the week.

@@ -1,6 +1,6 @@
 # overtime
 
-Python script to fill out an hour extra form in PDF
+Python script (Python 2.7) to fill out an hour extra form in PDF
 
 This program works with a CRON file 'programme/makeLog.py' which write in a directory 'fichiers' your logs hours of the week.
 The script heure_sup.py in command line 'programme/heure_sup.py --semaine 47' read your logs for the week 47 and create a completed PDF.

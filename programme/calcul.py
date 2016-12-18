@@ -1,6 +1,5 @@
 #!/usr/bin/env python
 
-import datetime
 import collections
 import os
 import sys
@@ -60,7 +59,6 @@ def write_day(semaine, dayweek, start_h, start_m, end_h, end_m):
                     start_to_write_m) + "---" + str(end_h) + "---" + str(end_m) + "---" + str(pause) + "---" + str(
                     star_pause_h) + "---" + str(star_pause_m) + "---" + str(end_pause_h) + "---" + str(
                     end_pause_m) + "\n"
-
 
         else:
             start_to_write_h = start_h
